@@ -1,0 +1,7 @@
+.App {
+	text-align: center;
+	display: flex;
+	min-height: 100vh;
+	background: rgb(2, 0, 36);
+	background: url("/public/bg.jpg") no-repeat center center/cover;
+}
